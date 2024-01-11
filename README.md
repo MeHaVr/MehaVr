@@ -15,5 +15,9 @@
 ### Stats
 ![Meha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehavr&show_icons=true&theme=radical)
 
+### What I can 
+- Basic knowledge of adobe Premiere pro and adobe affter effect
+  
+
 
 
