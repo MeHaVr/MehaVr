@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey, I'm Alex 👋
 
-<!--
-**MeHaVr/MehaVr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord](https://img.shields.io/discord/876068862754447391?style=for-the-badge&logo=discord&logoColor=blue&label=Discord&color=blue)](https://discord.gg/QfPgUfuHvR)
+![GitHub User's stars](https://img.shields.io/github/stars/mehavr?style=for-the-badge&logo=github&color=FFBB33)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- I am interested in discord bots and website 🤖
+- I am working with bots, website and java Minecraft plugins 🙂
+- and I am runing a Minecraft server for just for fun 📕
+
+### What am I learning
+- Html, Css, JavaScript on [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
+
+### Stats
+![Meha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehavr&show_icons=true&theme=radical)
+
+
+
